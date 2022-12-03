@@ -1,5 +1,5 @@
 # Euro-Cup-Data-Analysis
-This repository takes a look at SQL queries on EuroCup's 2016 data
+A collection of 20 SQL queries that uses 17 different tables. The queries include multiple joins, Common Table Expressions, and aggregations.
 
 # Questions
 
