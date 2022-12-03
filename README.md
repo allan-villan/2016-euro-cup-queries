@@ -1,6 +1,9 @@
 # Euro-Cup-Data-Analysis
 A collection of 20 SQL queries that uses 17 different tables. The queries include multiple joins, Common Table Expressions, and aggregations.
 
+Below is the database schema:
+![soccer-database](https://user-images.githubusercontent.com/84660320/205412950-eae2dc45-c8a5-4c05-9149-78751a604992.png)
+
 # Questions
 
 ## 1. Write a SQL query to find the date EURO Cup 2016 started on.
