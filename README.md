@@ -1,4 +1,4 @@
-# Euro-Cup-Data-Analysis
+# 2016-Euro-Cup-Queries
 A collection of 20 SQL queries that uses 17 different tables. The queries include multiple joins, Common Table Expressions, and aggregations.
 
 Below is the database schema:
